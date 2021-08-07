@@ -3,4 +3,4 @@
 
 *Any commercial use of these notebooks is strictly prohibited without the express written concent of the author.*
 
-***Price Prediction for Used Cars Using Ensemble Methods***: [PDF](https://github.com/v-ca/Tip-Toe-Through-Forest/usedcarprediction_final.pdf) ]
+***Price Prediction for Used Cars Using Ensemble Methods***: \[ [PDF](https://github.com/v-ca/Tip-Toe-Through-Forest/blob/main/usedcarprediction_final.pdf) \]
